@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 #Folder
-./credentials/
-
+.vscode/
+#Files
+.deployment
 # C extensions
 *.so
 
